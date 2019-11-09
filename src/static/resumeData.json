@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Mathis Linger",
+    "occupation":"Data Scientist",
+    "description":"After finishing a MS in data science from ENSAE Paris, I joined the data & AI lab of BNP Paribas where we build AI products for bankers",
+    "image":"mathis.jpeg",
+    "bio":"After graduating from ENSAE Paris, I started to work as a data scientist at BNP Paribas, where most of my projects involve either NLP or computer vision. Aside of data science, I am also really interested in web development.",
+    "contactmessage":"Let's get in touch!",
+    "email": "linger.mathis@gmail.com",
+    "phone": "+33 7 83 90 64 37",
+    "address":{
+      "street":"41 bis Quai de la Loire",
+      "complement":"BAL 53",
+      "city":"Paris",
+      "country":"France",
+      "zip": "75019"
+    },
+    "website": "mathislinger.github.io/resume",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lingermathis",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mathislinger",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"ENSAE Paris",
+        "degree":"MS in Data Science",
+        "graduated":"2018",
+        "description":" "
+      },
+      {
+        "school":"Toulouse School of Economics",
+        "degree":"M.Sc in Statistics and Econometrics (awarded with high honours)",
+        "graduated":"2017",
+        "description":""
+      },
+      {
+        "school":"University of Montréal",
+        "degree":"B.Sc in Mathematics and Economics",
+        "graduated":"Exchange program",
+        "description":" "
+      },
+      {
+        "school":"University François-Rabelais",
+        "degree":"B.Sc in Mathematics and Economics (awarded with high honours)",
+        "graduated":"2015",
+        "description":" "
+      }
+    ],
+    "work":[
+      {
+        "company":"BNP Paribas CIB, Data & AI Lab",
+        "title":"Expert machine learning",
+        "years":"May 2018 - Present",
+        "description":"Most of my projects involve either NLP or computer vision. I worked on the development of an internal OCR engine, for which I supervised interns, and a news feed application. For both of these projects, I built the algorithm as well as the full stack application. Aside of these main projects, I was part of the team organizing the second edition of the BNP Paribas AI Summer School, a 2 days event gathering 22 academic speakers and 300 data experts."
+      },
+      {
+        "company":"Tinyclues",
+        "title":"Data Scientist",
+        "years":"April - September 2017",
+        "description":"The goal of this internship was to find the best way to cluster retailer’s products using users’ behaviors (pageviews, clicks ...). Methods investigated include embedding computations, spectral clustering and affinity propagation algorithm. I also worked on the existing predictive models, by tuning model’s features to improve performances and investigating predictive anomalies."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "description":"Python is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"python.png"
+      },
+      {
+        "name":"JavaScript",
+        "description":"I am fairly new to JavaScript. I mainly use this language when developing back-end and front-end web applications.",
+        "image":"javascript.png"
+      },
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in work teams.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Docker",
+        "description":"I often use Docker to dockerize my Python applications, providing an easier way to use them.",
+        "image":"docker.png"
+      },
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. My experience with it has been in conjunction with ReactJS-based projects.",
+        "image":"node.jpg"
+      },
+      {
+        "name":"React JS",
+        "description":"This is the JavaScript library I mainly use to build front-end of web applications. The resume webpage you are now reading had been made using ReactJS.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"PyTorch",
+        "description":"This is the Python library I mainly use when I want to train a deep learning model. I really appreciate the philosophy of this library as well as the freedom it offers to build homemade neural networks.",
+        "image":"pytorch.png"
+      },
+      {
+        "name":"Elasticsearch",
+        "description":"I have used Elasticsearch when building a Newsfeed application. Indeed, Elasticsearch is particularly well suited to deal with textual data.",
+        "image":"elasticsearch.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Website",
+        "category":"A React based curriculum project.",
+        "image":"website.jpg",
+        "url":"https://github.com/mathislinger/resume"
+      },
+      {
+        "title":"Distributed Lasso",
+        "category":"Implementation of distributed Lasso algorithm.",
+        "image":"distributed_lasso.jpg",
+        "url":"https://github.com/mathislinger/Distributed_Coordinate_Descent_for_L1_regularized_Logistic_Regression"
+      },
+      {
+        "title":"Online clustering",
+        "category":"Implementation of online clustering algorithm.",
+        "image":"online_clustering.jpg",
+        "url":"https://github.com/mathislinger/PAC_bayesian_online_clustering"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at. It matters that you don't just give up.",
+        "user":"Stephen Hawking"
+      }
+    ]
+  }
+}
